@@ -2,7 +2,7 @@
 
 Tinkerer's Lab DIY project
 
-### _Team Members_ 
+### Team Members 
 
 1. Neha Singhal
 2. Aisha Meena
