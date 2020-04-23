@@ -1,4 +1,4 @@
-# OCR-with-Tesseract-and-RaspberryPi
+# OCR with Tesseract and RaspberryPi
 
 Tinkerer's Lab DIY project
 
